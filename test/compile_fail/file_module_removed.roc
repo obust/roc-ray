@@ -1,4 +1,4 @@
-app [Model, program] { roc: "nightly-2026-10-09-258ab27", rr: platform "../../platform/main.roc" }
+app [Model, program] { roc: "nightly-2026-11-06-34f137a", rr: platform "../../platform/main.roc" }
 
 # Large reads now return `List(U8)` from `Files`; the old module must stay absent.
 import rr.App
