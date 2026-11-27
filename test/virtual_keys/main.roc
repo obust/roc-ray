@@ -1,4 +1,4 @@
-app [Model, program] { roc: "nightly-2026-10-09-258ab27", rr: platform "../../platform/main.roc" }
+app [Model, program] { roc: "nightly-2026-11-27-f79ae91", rr: platform "../../platform/main.roc" }
 
 import rr.App
 import rr.Devices
